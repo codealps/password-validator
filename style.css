@@ -1,0 +1,22 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cornflowerblue;
+}
+span{
+    font-weight: bold;
+}
+input{
+    margin-bottom: 15px;
+    border: 2px solid;
+    width: 200px;
+    height: 25px;
+    font-weight: bold;
+    padding-left: 8px;
+}
+.main{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+::placeholder{
+    padding-left: 8px;
+}
